@@ -1,0 +1,12 @@
+path:  /content/datasets/tobacco800
+train: images/train
+val: images/val
+test:  # test images (optional)
+
+# Classes
+names:
+  0: DLLogo
+  1: DLSignature
+
+# Download script/URL (optional)
+download:
